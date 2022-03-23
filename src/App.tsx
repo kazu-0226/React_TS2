@@ -8,7 +8,7 @@ import { UserProfile } from "./UserProfile";
 import { User } from "./types/user";
 
 const user: User = {
-  name: "犬"
+  name: "犬",
   hobbies: ["映画", "ゲーム"]
 };
 
